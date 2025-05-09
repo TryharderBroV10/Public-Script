@@ -31,4 +31,4 @@ end)
 
 warn("Anti kick enabled")
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Gorkaelpro59/h3ll-paid-V2/refs/heads/main/.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TryharderBroV10/ZO7L-Public-Script/refs/heads/main/Idk"))()
